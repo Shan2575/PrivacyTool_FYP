@@ -1,0 +1,21 @@
+################################
+# Database Columns
+# 0 - creation_utc
+# 1 - top_frame_site_key
+# 2 - host_key
+# 3 - name
+# 4 - value
+# 5 - encrypted_value
+# 6 - Path
+# 7 - expires_utc
+# 8 - is_secure
+# 9 - is_httponly
+# 10 - last_access_utc
+# 11 - has_expires
+# 12 - is_persistent
+# 13 - priority
+# 14 - samesite
+# 15 - source_scheme
+# 16 - source_port
+# 17 - is_same_party
+################################
